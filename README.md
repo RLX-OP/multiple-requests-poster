@@ -66,7 +66,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Note - This project can also be used for "DDoSing" and this project is only made for educational purposes only.
+Note - This project can also be used for "DDoSing" and this project is only made for educational purposes only and we will not be responsible with what you do.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +85,9 @@ Note - This project can also be used for "DDoSing" and this project is only made
 <!-- GETTING STARTED -->
 ## Getting Started
 
-**Soon**
+- This project requires Python version *3.8* or *more*.
+- This project uses proxies to send requests from different locations if you have custom proxies you can use them.
+- There are **100000*** proxies in ```proxies.txt``` file.
 
 ---------------------------
 
@@ -97,7 +99,14 @@ Look at `requirements.txt` File to see all the required packages for this projec
 
 ### Installation
 
-**Soon**
+- 1. Go to config.json file.
+- 2. Fill the *"link"* value.
+- 3. Install required projects by opening console/terminal and type ```
+pip install -r requirements.txt
+```.
+- 4. Now simply start the project by opening console/terminal and type ```
+python main.py
+``` to start your project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -125,7 +134,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
