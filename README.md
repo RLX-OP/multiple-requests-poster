@@ -87,7 +87,7 @@ Note - This project can also be used for "DDoSing" and this project is only made
 
 - This project requires Python version *3.8* or *more*.
 - This project uses proxies to send requests from different locations if you have custom proxies you can use them.
-- There are **100000*** proxies in ```proxies.txt``` file.
+- There are **100000** proxies in ```proxies.txt``` file.
 
 ---------------------------
 
