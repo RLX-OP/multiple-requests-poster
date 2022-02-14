@@ -16,7 +16,7 @@ for link in url:
   for content in proxyfile:
     proxy = { 'http': content }
     requests.get(rlx, headers = { 'User-Agent':'Mozilla/5.0 (Linux; Android 10.0; RLX Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Mobile Safari/537.36 Edg/88.0.705.63' }, proxies = proxy)
-    print(time.strftime('==> (Day: %D, Hours: %H, Minutes: %M, Seconds: %S) Request Sent Successfully.'))
+    print(time.strftime('==> (Day: %D, Hour: %H, Minute: %M, Second: %S) Request Sent Successfully.'))
 	
 
 # -- @INFO -- #
