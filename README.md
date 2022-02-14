@@ -87,7 +87,7 @@ Note - This project can also be used for "DDoSing" and this project is only made
 
 - This project requires Python version **3.8** or **more**.
 - This project uses proxies to send requests from different locations if you have custom proxies you can use them.
-- There are **100000** proxies in ```proxies.txt``` file.
+- There are **100000** proxies in `proxies.txt` file.
 
 ---------------------------
 
@@ -102,13 +102,14 @@ Look at `requirements.txt` File to see all the required packages for this projec
 - 1. Go to config.json file.
 - 2. Fill the *"link"* value.
 - 3. Install required projects by opening console/terminal and type 
-```sh
+```
 pip install -r requirements.txt
-```.
+```
 - 4. Now simply start the project by opening console/terminal and type 
-```sh
+```
 python main.py
-``` to start your project.
+``` 
+to start your project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
