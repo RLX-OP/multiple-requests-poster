@@ -1,2 +1,2 @@
-requests
-pyfiglet
+requests==^2.27.1
+pyfiglet==^0.8.post1
